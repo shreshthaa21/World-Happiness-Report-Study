@@ -44,7 +44,7 @@ SQL Query: [Data Joining](https://github.com/shreshthaa21/World-Happiness-Report
 To answer the _first question_, I have uploaded the dataset, year-wise, on **GRETL**, which is a statistical software. Through this, we can perform a regression analysis, which helps us figure out the variables that have the strongest impact on the dependent variable. 
 In this case, the happiness score is the dependent variable. The explanatory variables are GDP per capita, Social Support, Life Expectancy, Freedom, Generosity, and Perceptions of corruption.
 
-The interpretation of the [regression results]() are as follows:
+The interpretation of the [regression results](https://github.com/shreshthaa21/World-Happiness-Report-Viz/blob/main/Regression_Results.md) are as follows:
 * The R-squared values here give us the extent to which the variations in the scores are affected by the variations in the other variables. The values for the three years are 81.2%, 79%, and 77%. This shows that the overall Happiness Score is a significant consequence of all the mentioned factors. 
 * On the basis of t-ratios and p-values, it can be estimated that **GDP Per Capita** is the most crucial factor of determination (the p-values are less than 0.05 for all three years). The income, thus, is an essential determinant for happiness amongst individuals.
 *  Followed by this we have **Life Expectancy**. Although from the statistical evaluation, this factor is not very consistent with the results (high p-values and insignificant t-ratios), but in the overall analysis (R-squared), it makes an important element of the analysis.
