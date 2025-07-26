@@ -36,7 +36,7 @@ The following was done in order to organize the data, so as to answer the above 
 * I first organized the dataset by finding and eliminating outliers on MS Excel.
 * Then, I made a separate dataset comprising of the top five and bottom five countries from the list.
 * This was followed by finding the averages and differences between these averages to find the gap between the extremes, for all three years.
-* The next step was to name the columns in a common manner (the ones that weren't), and then SQL was used to join the datasets for all the years to get a [resultant table]() of only the happiness scores for all three years, associated with its respective country. A separate dataset was made for the same.
+* The next step was to name the columns in a common manner (the ones that weren't), and then SQL was used to join the datasets for all the years to get a [resultant table](https://github.com/shreshthaa21/World-Happiness-Report-Viz/blob/main/Happiness%20Scores%20%5Byear-wise%5D.csv) of only the happiness scores for all three years, associated with its respective country. A separate dataset was made for the same.
 
 SQL Query: [Data Joining](https://github.com/shreshthaa21/World-Happiness-Report-Viz/blob/main/Data_Joining.sql) 
 
