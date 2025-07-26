@@ -56,6 +56,29 @@ Also, from the graphical analysis of the remaining factors (for example, for 201
 *While social support, freedom, perceptions of corruption and generosity lack a significant relationship with score, social support is equally inconsistent as it is highly accumulated towards one side of the plot – making it insignificant to relate directly with the happiness score.
 Further, factor-wise plots shall be seen for Life Expectancy and GDP Per Capita. 
 
+**2017 Factor-Wise Plots**
+Score vs GDP Per Capita
+![image]<img width="647" height="452" alt="2017_GDP" src="https://github.com/user-attachments/assets/72a3af95-9e4c-447a-8122-dd46ee280bda" />
+Score vs Life Expectancy
+![image]<img width="647" height="452" alt="2017_LE" src="https://github.com/user-attachments/assets/0c275678-9cc0-4b23-a01b-edc96544c2b6" />
+
+**2018 Factor-Wise Plots**
+Score vs GDP Per Capita
+![image]<img width="647" height="452" alt="2018_GDP" src="https://github.com/user-attachments/assets/d2f27f5e-37fc-4f0d-885a-048b1c265ef7" />
+Score vs Life Expectancy
+![image]<img width="647" height="452" alt="2018_LE" src="https://github.com/user-attachments/assets/19a343e4-baaa-4506-b0ed-5eee8ed94805" />
+
+**2019 Factor-Wise Plots**
+Score vs GDP Per Capita
+![image]<img width="647" height="452" alt="2019_GDP" src="https://github.com/user-attachments/assets/c32a44f6-3da1-432b-95d0-c657ca920876" />
+Score vs Life Expectancy
+![image]<img width="647" height="452" alt="2019_LE" src="https://github.com/user-attachments/assets/3c89c191-e67e-4063-bb9a-c95ab84aa4de" />
+
+
+
+
+
+
 
 
 
