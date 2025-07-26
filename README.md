@@ -40,8 +40,8 @@ The following was done in order to organize the data, so as to answer the above 
 
 SQL Query: [Data Joining]() 
 
-## The Analyzing and Visualizing Process
-To answer the first question, I have uploaded the dataset, year-wise, on **GRETL**, which is a statistical software. Through this, we can perform a regression analysis, which helps us figure out the variables that have the strongest impact on the dependent variable. 
+## Analyzing and Visualizing Process
+To answer the _first question_, I have uploaded the dataset, year-wise, on **GRETL**, which is a statistical software. Through this, we can perform a regression analysis, which helps us figure out the variables that have the strongest impact on the dependent variable. 
 In this case, the happiness score is the dependent variable. The explanatory variables are GDP per capita, Social Support, Life Expectancy, Freedom, Generosity, and Perceptions of corruption.
 
 The interpretation of the [regression results]() are as follows:
@@ -73,6 +73,20 @@ Further, factor-wise plots shall be seen for Life Expectancy and GDP Per Capita.
 <img width="500" height="330" alt="2019_GDP" src="https://github.com/user-attachments/assets/c32a44f6-3da1-432b-95d0-c657ca920876" />
 
 <img width="500" height="330" alt="2019_LE" src="https://github.com/user-attachments/assets/3c89c191-e67e-4063-bb9a-c95ab84aa4de" />
+
+The actual values are the ones observed from the dataset while, the fitted values are the values predicted on the basis of the regression model. In these two factors, most of the actual and fitted values align in the same path - some even coincide. Thus, these factors prove to be **the most significant**.
+
+To answer the _second and third question_, we use the newly prepared datasets. Using Tableau, we depict the happiness through the [world map representations](https://public.tableau.com/app/profile/shreshtha.s5713/viz/Happiness-Report-Maps). The darkest shade of blue shows the countries with the highest scores, whereas the darkest shades of green shows the countries with the lowest scores.
+
+### 2017
+<img width="1000" height="840" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f6b2bd49-455c-4be6-b50b-60465fb3f848" />
+
+### 2018
+<img width="1000" height="840" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5b95d2df-b73f-46a9-bbd2-a7adad8b3544" />
+
+### 2019
+<img width="1279" height="959" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/982f342a-ca6a-40c9-91c5-5812372955d4" />
+
 
 
 
