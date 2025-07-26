@@ -36,9 +36,9 @@ The following was done in order to organize the data, so as to answer the above 
 * I first organized the dataset by finding and eliminating outliers on MS Excel.
 * Then, I made a separate dataset comprising of the top five and bottom five countries from the list.
 * This was followed by finding the averages and differences between these averages to find the gap between the extremes, for all three years.
-* The next step was to name the columns in a common manner (the ones that weren't), and then SQL was used to join the datasets for all the years to get a resultant table of only the happiness scores for all three years, associated with its respective country. A separate dataset was made for the same.
+* The next step was to name the columns in a common manner (the ones that weren't), and then SQL was used to join the datasets for all the years to get a [resultant table]() of only the happiness scores for all three years, associated with its respective country. A separate dataset was made for the same.
 
-SQL Query: [Data Joining]() 
+SQL Query: [Data Joining](https://github.com/shreshthaa21/World-Happiness-Report-Viz/blob/main/Data_Joining.sql) 
 
 ## Analyzing and Visualizing Process
 To answer the _first question_, I have uploaded the dataset, year-wise, on **GRETL**, which is a statistical software. Through this, we can perform a regression analysis, which helps us figure out the variables that have the strongest impact on the dependent variable. 
@@ -84,7 +84,7 @@ To answer the _second and third question_, we use the newly prepared datasets. U
 
 <img width="1000" height="840" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/982f342a-ca6a-40c9-91c5-5812372955d4" />
 
-The next step is observing the differences/gaps in the happiest and unhappiest nations. The dataset for five happiest and five unhappiest countries was made during the process of cleaning and preparing data on [SQL](). Using that, the average scores have been calculated and plotted as a bar chart, on MS Excel – to illustrate the differences through the years between the two extremes of the dataset. 
+The next step is observing the differences/gaps in the happiest and unhappiest nations. The dataset for five happiest and five unhappiest countries was made during the process of cleaning and preparing data. Using that, the average scores have been calculated and plotted as a bar chart, on MS Excel – to illustrate the differences through the years between the two extremes of the dataset. 
 
 For 2017, the difference in the averages is 4.475.
 
@@ -107,10 +107,10 @@ Finally, here are the answers to the questions that were asked in the beginning 
    From our regression analysis and factor-wise plots, we concluded that the most significant factors to determine the happiness score of a country are Life Expectancy and GDP Per Capita.
 
 2. How did happiness score change through the years in the five countries with the highest scores and the five countries with the lowest scores?
-   From our world map depictions, we found out that the scores for countries have been increasing through the years. But not only the lower-limit of scores, but the upper-limit has also seen an increase – both      low and high-ranking countries have observed increases in their scores, as well as in their factors, on an average.
+   From our world map depictions, we found out that the scores for countries have been increasing through the years. But not only the lower-limit of scores, but the upper-limit has also seen an increase – both low and high-ranking countries have observed increases in their scores, as well as in their factors, on an average.
 
 3. Is the gap between the happiest and unhappiest countries widening or shrinking?
-   It can be said that the gap is neither widening nor shrinking. The gap is approximately same through the three years. It can be seen in the difference of the average and the bar charts. This again implies the    statement from the previous answer – both extremes are observing a positive change in their happiness scores.
+   It can be said that the gap is neither widening nor shrinking. The gap is approximately same through the three years. It can be seen in the difference of the average and the bar charts. This again implies the statement from the previous answer – both extremes are observing a positive change in their happiness scores.
 
 ## Probable Task Solution / Actions
 Policies should be designed such that they encompass all the fators, but they should be particularly focused on increasing the GDP Per Capita and Life Expectancy. This can be done through employment opportunites, daily-wage work, and availability of better and affordable healthcare. The happiest countries have relatively high per capita income and life expectancy, and it justifies the high scores of these countries on the annual world happiness report. 
