@@ -58,21 +58,21 @@ Further, factor-wise plots shall be seen for Life Expectancy and GDP Per Capita.
 
 ### 2017 Factor-Wise Plots
 
-<img width="647" height="452" alt="2017_GDP" src="https://github.com/user-attachments/assets/72a3af95-9e4c-447a-8122-dd46ee280bda" />
+<img width="500" height="330" alt="2017_GDP" src="https://github.com/user-attachments/assets/72a3af95-9e4c-447a-8122-dd46ee280bda" />
 
-<img width="647" height="452" alt="2017_LE" src="https://github.com/user-attachments/assets/0c275678-9cc0-4b23-a01b-edc96544c2b6" />
+<img width="500" height="330" alt="2017_LE" src="https://github.com/user-attachments/assets/0c275678-9cc0-4b23-a01b-edc96544c2b6" />
 
 ### 2018 Factor-Wise Plots
 
-<img width="647" height="452" alt="2018_GDP" src="https://github.com/user-attachments/assets/d2f27f5e-37fc-4f0d-885a-048b1c265ef7" />
+<img width="500" height="330" alt="2018_GDP" src="https://github.com/user-attachments/assets/d2f27f5e-37fc-4f0d-885a-048b1c265ef7" />
 
-<img width="647" height="452" alt="2018_LE" src="https://github.com/user-attachments/assets/19a343e4-baaa-4506-b0ed-5eee8ed94805" />
+<img width="500" height="330" alt="2018_LE" src="https://github.com/user-attachments/assets/19a343e4-baaa-4506-b0ed-5eee8ed94805" />
 
 ### 2019 Factor-Wise Plots
 
-<img width="500" height="300" alt="2019_GDP" src="https://github.com/user-attachments/assets/c32a44f6-3da1-432b-95d0-c657ca920876" />
+<img width="500" height="330" alt="2019_GDP" src="https://github.com/user-attachments/assets/c32a44f6-3da1-432b-95d0-c657ca920876" />
 
-<img width="500" height="300" alt="2019_LE" src="https://github.com/user-attachments/assets/3c89c191-e67e-4063-bb9a-c95ab84aa4de" />
+<img width="500" height="330" alt="2019_LE" src="https://github.com/user-attachments/assets/3c89c191-e67e-4063-bb9a-c95ab84aa4de" />
 
 
 
