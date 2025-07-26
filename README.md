@@ -78,14 +78,42 @@ The actual values are the ones observed from the dataset while, the fitted value
 
 To answer the _second and third question_, we use the newly prepared datasets. Using Tableau, we depict the happiness through the [world map representations](https://public.tableau.com/app/profile/shreshtha.s5713/viz/Happiness-Report-Maps). The darkest shade of blue shows the countries with the highest scores, whereas the darkest shades of green shows the countries with the lowest scores.
 
-### 2017
 <img width="1000" height="840" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f6b2bd49-455c-4be6-b50b-60465fb3f848" />
 
-### 2018
 <img width="1000" height="840" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5b95d2df-b73f-46a9-bbd2-a7adad8b3544" />
 
-### 2019
-<img width="1279" height="959" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/982f342a-ca6a-40c9-91c5-5812372955d4" />
+<img width="1000" height="840" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/982f342a-ca6a-40c9-91c5-5812372955d4" />
+
+The next step is observing the differences/gaps in the happiest and unhappiest nations. The dataset for five happiest and five unhappiest countries was made during the process of cleaning and preparing data on [SQL](). Using that, the average scores have been calculated and plotted as a bar chart, on MS Excel – to illustrate the differences through the years between the two extremes of the dataset. 
+
+For 2017, the difference in the averages is 4.475.
+
+<img width="500" height="340" alt="image" src="https://github.com/user-attachments/assets/0689285c-bbad-4932-b3a5-5a9374d6ce6e" />
+
+For 2018, the difference in the averages is 4.3726.
+
+<img width="500" height="340" alt="image" src="https://github.com/user-attachments/assets/93cc076d-e8d3-4740-b1ed-b4a8284d2e45" />
+
+For 2019, the difference in the averages is 4.4402.
+
+<img width="500" height="340" alt="image" src="https://github.com/user-attachments/assets/0bf77ffb-d7e5-4b58-a0ed-be84b29eb7ac" />
+
+The difference in the averages has gone from **4.475** (2017) to **4.3726** (2018) and then to **4.4402** (2019). The gap narrowed slightly in 2018, but increased again in 2019, but not to the previous extent. **This demonstrates that positive impact is taking place.** But for the unhappier countries to match the level of the happy ones is definitely a _challenge_. This is because, as observed in the world map depiction, like the scores of the low-ranking countries are increasing, they are also increasing for the top-ranking countries. It shows the progress in happiness is being made from both the extreme ends, making _the average change in their gap almost negligible_.  
+
+## Answers to the Questions Asked:
+Finally, here are the answers to the questions that were asked in the beginning of the task:
+
+1. What factors have the most significant impact on the happiness score of a country?
+   From our regression analysis and factor-wise plots, we concluded that the most significant factors to determine the happiness score of a country are Life Expectancy and GDP Per Capita.
+
+2. How did happiness score change through the years in the five countries with the highest scores and the five countries with the lowest scores?
+   From our world map depictions, we found out that the scores for countries have been increasing through the years. But not only the lower-limit of scores, but the upper-limit has also seen an increase – both      low and high-ranking countries have observed increases in their scores, as well as in their factors, on an average.
+
+3. Is the gap between the happiest and unhappiest countries widening or shrinking?
+   It can be said that the gap is neither widening nor shrinking. The gap is approximately same through the three years. It can be seen in the difference of the average and the bar charts. This again implies the    statement from the previous answer – both extremes are observing a positive change in their happiness scores.
+
+## Probable Task Solution / Actions
+Policies should be designed such that they encompass all the fators, but they should be particularly focused on increasing the GDP Per Capita and Life Expectancy. This can be done through employment opportunites, daily-wage work, and availability of better and affordable healthcare. The happiest countries have relatively high per capita income and life expectancy, and it justifies the high scores of these countries on the annual world happiness report. 
 
 
 
