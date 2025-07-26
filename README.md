@@ -51,7 +51,7 @@ The interpretation of the [regression results]() are as follows:
 
 Also, from the graphical analysis of the remaining factors (for example, for 2019), it is observed that there is lack of consistency between the score and the other factors* in the plot – thus, we eliminate them for further __individual_ analysis_.
 
-(image)
+![image]<img width="1279" height="1624" alt="2019_Individual_Factors_Viz" src="https://github.com/user-attachments/assets/662d6553-7b60-410a-a06e-fb4d8d987f18" />
 
 *While social support, freedom, perceptions of corruption and generosity lack a significant relationship with score, social support is equally inconsistent as it is highly accumulated towards one side of the plot – making it insignificant to relate directly with the happiness score.
 Further, factor-wise plots shall be seen for Life Expectancy and GDP Per Capita. 
